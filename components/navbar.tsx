@@ -44,7 +44,7 @@ export function Navbar() {
     <nav className="border-b bg-background sticky top-0 z-10">
       <div className="container flex h-16 items-center justify-between px-4">
         <Link href="/" className="text-xl font-bold flex items-center">
-          <Megaphone className="h-9 w-9 mr-2" />
+          <Megaphone className="h-8 w-8 mr-2" />
           PitchAI
         </Link>
 
